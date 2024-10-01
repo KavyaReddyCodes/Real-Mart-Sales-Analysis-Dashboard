@@ -15,11 +15,13 @@ DA workflow involves
 🟣 Kaggle - Playground for data enthusiast\
 🟣 Excel - to organize and analyze the data
 
+
+## Dashboard Snapshot
+[Image](https://github.com/KavyaReddyCodes/Real-Mart-Sales-Analysis-Dashboard/blob/main/Realmart%20Dashboard-PowerBI.png )
+
 ## Download Dashboard
 [Dashboard](https://github.com/KavyaReddyCodes/Real-Mart-Sales-Analysis-Dashboard/blob/main/Real%20Mart%20Dashboard.pbix)
 
 ## Demo Video
 [Dahboard Demo](https://github.com/KavyaReddyCodes/Real-Mart-Sales-Analysis-Dashboard/blob/main/RealMartDashboard.mp4)
 
-## Dashboard Snapshot
-[Image]( )
