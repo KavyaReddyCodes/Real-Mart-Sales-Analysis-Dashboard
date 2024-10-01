@@ -10,3 +10,4 @@ DA workflow involves
 5. Insights and decision-making .
 
 [Dashboard](https://github.com/KavyaReddyCodes/Real-Mart-Sales-Analysis-Dashboard/blob/main/Real%20Mart%20Dashboard.pbix)
+[Dahboard Demo](https://github.com/KavyaReddyCodes/Real-Mart-Sales-Analysis-Dashboard/blob/main/RealMartDashboard.mp4)
