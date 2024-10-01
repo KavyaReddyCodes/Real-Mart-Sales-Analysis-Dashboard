@@ -22,4 +22,4 @@ DA workflow involves
 [Dahboard Demo](https://github.com/KavyaReddyCodes/Real-Mart-Sales-Analysis-Dashboard/blob/main/RealMartDashboard.mp4)
 
 ## Dashboard Snapshot
-[Image](
+[Image]( )
