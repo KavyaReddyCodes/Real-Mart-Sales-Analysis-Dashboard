@@ -11,9 +11,9 @@ DA workflow involves
 5. Insights and decision-making .
 
 ## Tools used
-🟣Power BI - Data visualization software product
-🟣Kaggle - Playground for data enthusiast
-🟣Excel - to organize and analyze the data
+🟣 Power BI - Data visualization software product\
+🟣 Kaggle - Playground for data enthusiast\
+🟣 Excel - to organize and analyze the data
 
 ## Download Dashboard
 [Dashboard](https://github.com/KavyaReddyCodes/Real-Mart-Sales-Analysis-Dashboard/blob/main/Real%20Mart%20Dashboard.pbix)
